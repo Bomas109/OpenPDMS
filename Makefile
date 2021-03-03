@@ -1,7 +1,4 @@
-# Open-PDMS
-# Copyright (c) 2021 Thomas Reid <tom.reid.2018@gmail.com>
-
-TARGET=open-pdms
+TARGET=OpenPDMS
 # compiler
 CC=gcc
 # debug
